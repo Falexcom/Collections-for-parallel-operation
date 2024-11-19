@@ -10,7 +10,7 @@
 
 Нужно выполнить и отправить на проверку задачу:
 
-1. [Программа-анализатор](./task1/README.md).	
+1. [Программа-анализатор](https://github.com/netology-code/jd-homeworks/blob/video/concurrent_collections/task1/README.md).	
 
 =======
 
